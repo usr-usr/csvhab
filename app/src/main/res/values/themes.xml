@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- アプリの基本テーマ -->
+    <style name="Base.Theme.HAB" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- primary -->
+        <item name="colorPrimary">@color/element_background_theme1</item>
+        <item name="colorOnPrimary">@color/element_text_theme1</item>
+
+        <!-- secondary -->
+        <item name="colorSecondary">@color/element_background_theme1</item>
+        <item name="colorOnSecondary">@color/element_text_theme1</item>
+
+        <!-- background -->
+        <item name="android:colorBackground">@color/window_background_theme1</item>
+
+        <!-- surface -->
+        <item name="colorSurface">@color/window_background_theme1</item>
+
+        <!-- text -->
+        <item name="colorOnBackground">@color/text_primary_theme1</item>
+        <item name="colorOnSurface">@color/text_primary_theme1</item>
+
+        <!-- statusbar -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+    </style>
+
+    <style name="Theme.HAB" parent="Base.Theme.HAB" />
+</resources>

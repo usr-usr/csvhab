@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme1 -->
+    <color name="window_background_theme1">#F9F9F7</color>
+    <color name="element_background_theme1">#4A90E2</color>
+    <color name="element_text_theme1">#FFFFFF</color>
+    <color name="text_primary_theme1">#3A4750</color>
+    <color name="text_secondary_theme1">#8A9499</color>
+
+    <!-- themeTest -->
+    <color name="window_background_themeTest">#FFFF00</color>
+    <color name="element_background_themeTest">#FF00FF</color>
+    <color name="element_text_themeTest">#000000</color>
+    <color name="text_primary_themeTest">#00FF00</color>
+    <color name="text_secondary_themeTest">#FF6347</color>
+
+    <!-- text -->
+    <color name="income">#00897B</color>
+    <color name="expense">#E53935</color>
+
+</resources>
